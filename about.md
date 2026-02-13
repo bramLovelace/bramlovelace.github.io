@@ -7,6 +7,8 @@ permalink: /about/
 Mechanical Engineer, Caver, Mountaineer
 
 ### Contact
-[email@domain.com](mailto:email@domain.com)
+[Emailm](mailto:kk4ckl@wayfarer.org)
 
 [Linkedin](https://www.linkedin.com/in/bram-lovelace/)
+
+KK4CKL
