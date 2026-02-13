@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
+Hi! I'm Bram.
 Mechanical Engineer, Caver, Mountaineer
-
-### Resume
 
 [Resume](data/resume.pdf)
 
-### Contact
 [Linkedin](https://www.linkedin.com/in/bram-lovelace/)
 
 KK4CKL
