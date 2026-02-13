@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mechanical Engineer, Caver, Mountaineer
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
+### Contact
 [email@domain.com](mailto:email@domain.com)
+
+[Linkedin](https://www.linkedin.com/in/bram-lovelace/)
