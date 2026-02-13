@@ -11,8 +11,8 @@ We had previously run COTS swerve modules in 2015 and 2017 so were confident in 
 
 After 10 major iterations in CAD, the first time we built it was for the robot and it worked! We even won an award that called it out specifically. 
 
-![image]({{ site.baseurl }}/images/Swerve2018a)
-![image]({{ site.baseurl }}/images/Swerve2018b)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/Swerve2018a)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/Swerve2018b)
 
 This version had a cut into the main drive gear to hold the module bearing as well as offsetting the wheel to allow it to be directly driven through a bevel gear train so as to shorten the height of the module. 
 
@@ -22,6 +22,6 @@ Through the next offseason we developed a way to stack the position and drive en
 
 With this and other changes I was able to shave off ~3lbs from each module for a total weight savings of ~12lbs (10% of the weight limit for the robot)
 
-![image]({{ site.baseurl }}/images/Swerve2019a)
-![image]({{ site.baseurl }}/images/Swerve2019b)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/Swerve2019a)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/Swerve2019b)
 
