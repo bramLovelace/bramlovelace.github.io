@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MiniFRC
+title: 3D Printed Battlebot
 ---
 
 Hickory Bot Battles had a 3d printed only category in their competition. Hesitant to sacrifice robots to destructive opponents and wanting to start out I decided to build a small "brit" flipper for this category. 
