@@ -6,6 +6,6 @@ title: Auto Trash
 For First Year Engineering at Purdue, I took the experimental class ENGR195. As a part of this class, teams had to come up with a problem and develop an engineering solution. My team decided to use AI to detect the material of an object thrown into a trash can and sort it into the corresponding bin. 
 
 
-The bin consisted of an entry chute where the refuse was guided to a trough with a white background and strong light for the camera to photograph it. Using a Raspberry Pi, this was connected to a host computer which ran the material detection model and returned the correct bin to dump it into using a python script. 
+The bin consisted of an entry chute where the refuse was guided to a trough with a white background and strong light for the camera to photograph it. Using a Raspberry Pi, this was remotely connected to a host computer which ran the material detection model and returned the correct bin to dump it into using a python script. 
 
 [[video of it working]]
