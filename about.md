@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi! I'm Bram.
-Mechanical Engineer, Caver, Mountaineer
+I'm a Mechanical Engineer, a Caver, and a Mountaineer
 
 This website is a work in progress. Check back for more projects!
 
