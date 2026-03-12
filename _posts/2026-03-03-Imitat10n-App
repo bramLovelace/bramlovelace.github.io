@@ -1,0 +1,11 @@
+---
+layout: post
+title: Imitat10n App
+---
+
+
+For the Hello World hackathon at Purdue, I worked with a team to develop an app backend in python and Flask in 24 hours to automatically detect clothing based on an image and find an online retailer for it. 
+
+Here is an intermediate step extracting the color of an object:
+
+[[image]]
