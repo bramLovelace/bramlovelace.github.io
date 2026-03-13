@@ -42,6 +42,3 @@ Alex and Kayla returned to Albuquerque while the rest of us checked into our hou
 
 
 Alex also wrote this up on his blog, check it out here: https://blog.alexfischer.science/p/overnight-in-big-canyon
-
-
-![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/shasta-1.jpg)
