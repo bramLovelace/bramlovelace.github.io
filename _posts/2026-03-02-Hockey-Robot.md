@@ -9,7 +9,7 @@ After recieving a number of retired components from my FRC team, I decided to bu
 
 The chassis height was set at exactly the 2.5" diameter of the motors so that it would work as well right side up as upside down and was 3d printed. After destroying a handful of prints by both high speed collisions and abrasion when running on rough surfaces, I added a pair of metal shims salvaged from a computer case to the front arms. 
 
-<iframe style="width: 100%; aspect-ratio: 16/9;"
+<iframe style="width: 100%;"
   src="https://www.youtube.com/embed/Ai1IysNQgHs" 
   frameborder="0" allowfullscreen></iframe>
 
