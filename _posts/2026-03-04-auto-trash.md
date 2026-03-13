@@ -8,4 +8,6 @@ For First Year Engineering at Purdue, I took the experimental class ENGR195. As 
 
 The bin consisted of an entry chute where the refuse was guided to a trough with a white background and strong light for the camera to photograph it. Using a Raspberry Pi, this was remotely connected to a host computer which ran the material detection model and returned the correct bin to dump it into using a python script. 
 
-[[video of it working]]
+<iframe style="width: 100%; aspect-ratio: 9/16;"
+  src="https://www.youtube.com/embed/j6enDYM-btM" 
+  frameborder="0" allowfullscreen></iframe>
