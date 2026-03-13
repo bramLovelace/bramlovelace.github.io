@@ -25,3 +25,7 @@ With this and other changes I was able to shave off ~3lbs from each module for a
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/Swerve2019a.JPG)
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/Swerve2019b.JPG)
 
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/render-4.png)
+
+
