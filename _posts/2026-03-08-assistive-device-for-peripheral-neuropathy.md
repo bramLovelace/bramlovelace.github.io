@@ -7,3 +7,10 @@ For senior deisgn, I worked with a group of friends to develop a device for pate
 
 This device won first place of 68 teams at the [2023 Malott Innovation Awards](https://engineering.purdue.edu/ME/News/2023/winning-senior-design-project-helps-people-with-neuropathy-learn-to-walk-again).
 
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/fsbs-2.jpg)
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/fsbs-4.jpg)
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/fsbs-1.jpg)
+
+
