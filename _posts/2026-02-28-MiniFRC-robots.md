@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MiniFRC
+title: MiniFRC Robots
 ---
 
 My high school's robotics team ran a 1/4 scale competition based on the FIRST Robotics Competition game from the previous year. This grew from a small get together with friends into including many competitors from teams statewide.
@@ -15,20 +15,25 @@ The robots were limited to 1kg and controlle with an Arduino or ESP32 via blueto
 My first robot was a simple adafruit style arduino robot with a 3d printed arm to collect foam balls and deliver them to a goal (for Stronghold). It was ambitious but not wholly effective except in gaining the team moniker "Dream Big."
 
 
-The protocols that were used for robots at this time involved an Arduino Uno commnicating via an HC-06 Bluetooth link to the the driverstation over SoftwareSerial. Unfortunately this breaks the clock necessary for PWM control and eliminates the chance for servo motors to be directly connected to the arduino. Since my robot used a servo motor, I used an Arduino nano with 3 digital pins connecting it to the master Arduino. This gave me 8 possible states to put the arm in and worked very effectively. 
-
+# Steamhold
 
 The next game was a combination of Stronghold and Steamworks, where robots had to cross randomized obstacles while delivering 3d printed gears to the opposite side of the field. My robot for this game started from a blank slate with large 3d printed wheels and lego tires (for both increased speed and ground clearance) and a small arm with a highly effective ground gear intake. This was one of very few (if any) ground intakes in this game and allowed my robot to manipulate both the porticullus and chival de frise. This made it able to cross the defenses more efficiently and make use of any mishaps that ended up with gears dropped mid field or near our airship. 
-
-
-Unfortunately the large lego tires were grippy enough that it also meant it had a hard time overcoming lateral friction and turning which limited its effectiveness. Nonetheless it still ended up in the final match. 
-
 
 <iframe style="width: 100%; aspect-ratio: 16/9;"
   src="https://www.youtube.com/embed/jcOnljQOujk?si=V3dpzXvDQdCZtxTa" 
   frameborder="0" allowfullscreen></iframe>
+  
+The protocols that were used for robots at this time involved an Arduino Uno commnicating via an HC-06 Bluetooth link to the the driverstation over SoftwareSerial. Unfortunately this breaks the clock necessary for PWM control and eliminates the chance for servo motors to be directly connected to the arduino. Since my robot used a servo motor, I used an Arduino nano with 3 digital pins connecting it to the master Arduino. This gave me 8 possible states to put the arm in and worked very effectively. 
 
 
+Unfortunately the large lego tires were grippy enough that it also meant it had a hard time overcoming lateral friction and turning which limited its effectiveness. Nonetheless it still ended up in the high scoring match. 
+
+
+<iframe style="width: 100%; aspect-ratio: 16/9;"
+  src="https://www.youtube.com/embed/mk9-l0ZTGcM" 
+  frameborder="0" allowfullscreen></iframe>
+
+# Power Up
 
 The 2018 game was a version of Power Up with foam insulation cubes in the place of power cubes. 
 Continuing my ambition I designed a robot with a single stage elevator which would allow the cubes to pass through it from the intake on the front. Unfortunately the imprecision of the motors (very limited support for encoders) it would not be able to shoot with accuracy necessary to be useful. Starting with this robot, I made fully 3d printed wheels and TPU tires that snapped together in 3 pieces. This allowed for the speed of the previous tires without the burdensome lateral friction from the Lego tires and also gave more space for the robot due to their thin profile. 
@@ -39,6 +44,7 @@ This robot, despite its flaws, ended up winning the spring 2018 competition and 
 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/IMG_5906.jpg)
 
+# Deep Space
 
 My senior year the game was based on Deep Space, with robots picking up balls (cargo) and velcro covered disks (hatch panels) to ready a spaceship for travel. For this game the developers (who were now in college for Electrical Engineering at NC State) had developed their own host board for the ESP32, allowing up to 4 motors and 2 servos natively. I used this new control system and built a [Pink](https://www.thebluealliance.com/team/233) inspired telescoping arm with an intake capable of dual function to pick up hatches or cargo. 
 
@@ -46,6 +52,11 @@ My senior year the game was based on Deep Space, with robots picking up balls (c
 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/pink-arm-2.jpg)
 
+<iframe style="width: 100%; aspect-ratio: 16/9;"
+  src="https://www.youtube.com/embed/jcOnljQOujk?si=V3dpzXvDQdCZtxTa" 
+  frameborder="0" allowfullscreen></iframe>
+
+# Infinite Recharge
 
 During the summer of 2020 when I was stuck at home, I built a miniFRC robot for the Infinite Recharge game although it never ended up entering in competition. The robot had to intake small foam balls and fire them into a goal. I prototped a rotary hopper similar to what our full scale robot had been that year with an adjustable hooded turret shooter. Despite a few iterations, I was not happy with the final result so decided to completely change the hopper and shooter mechanisms to an arm.
 
