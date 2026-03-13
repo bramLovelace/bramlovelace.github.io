@@ -76,7 +76,9 @@ The main arm was driven by a large servo motor with a gear reduction since the f
 
 The arm also allowed for easy aiming based on angle and power of the motors. I added an ultrasonic sensor to automatically set the angle when the robot is commanded to shoot. This was determined by plotting a set of trials at different angles vs their measured distance and fitting a line to it. This removed the thinking from choosing the angle at which to shoot, only requiring the driver to aim laterally. 
 
-<!--video of robot shooting?-->
+<iframe style="width: 100%; aspect-ratio: 16/9;"
+  src="https://www.youtube.com/embed/cmWZDrNUWWE" 
+  frameborder="0" allowfullscreen></iframe>
 
 
 
