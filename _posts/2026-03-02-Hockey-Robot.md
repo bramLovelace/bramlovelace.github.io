@@ -16,6 +16,6 @@ The chassis height was set at exactly the 2.5" diameter of the motors so that it
   
 With the geometry of the rear of the robot being flat, there was a possibility it could end up on its back. This did not warrant designing a self righting mechanism, however, because the rotational inertia of the motors was enough to flip it onto its wheels in the same way a reaction wheel rotates a satellite. 
 
-<iframe style="width: 100%; aspect-ratio: 16/9;"
+<iframe style="width: 100%; aspect-ratio: 9/16;"
   src="https://www.youtube.com/embed/tV6ROXzu_vQ" 
   frameborder="0" allowfullscreen></iframe>
