@@ -22,7 +22,7 @@ The next game was a combination of Stronghold and Steamworks, where robots had t
 <iframe style="width: 100%; aspect-ratio: 16/9;"
   src="https://www.youtube.com/embed/jcOnljQOujk?si=V3dpzXvDQdCZtxTa" 
   frameborder="0" allowfullscreen></iframe>
-  
+
 The protocols that were used for robots at this time involved an Arduino Uno commnicating via an HC-06 Bluetooth link to the the driverstation over SoftwareSerial. Unfortunately this breaks the clock necessary for PWM control and eliminates the chance for servo motors to be directly connected to the arduino. Since my robot used a servo motor, I used an Arduino nano with 3 digital pins connecting it to the master Arduino. This gave me 8 possible states to put the arm in and worked very effectively. 
 
 
