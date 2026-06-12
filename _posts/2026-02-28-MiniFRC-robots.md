@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MiniFRC Robots
+image: /images/2020bot.jpg
 ---
 
 My high school's robotics team ran a 1/4 scale competition based on the FIRST Robotics Competition game from the previous year. This grew from a small get together with friends into including many competitors from teams statewide.
