@@ -1,6 +1,7 @@
 ---
 layout: trip-report
 title: Lava Tubing
+image: /images/kims-3.jpg
 ---
 
 
