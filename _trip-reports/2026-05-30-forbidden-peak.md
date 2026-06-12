@@ -50,7 +50,7 @@ Instead of following the gulley rappel route, we decided to retrace our steps up
 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/forbidden-11.JPEG)
 
-There were so many rappel stations in disrepair or unreachable that we lost count which is a huge detriment to the beauty and safety on a 50 classic climb. Someone should go and clean it up and replace them with bolts to lower the wilderness impact if the park service hadn’t chopped them when someone did that over a decade ago. [link to article]
+There were so many rappel stations in disrepair or unreachable that we lost count which is a huge detriment to the beauty and safety on a 50 classic climb. Someone should go and clean it up and replace them with bolts to lower the wilderness impact if the park service hadn’t chopped them when someone did that over a decade ago. [Article on this](https://washingtonclimbers.org/index.php/2014/09/01/12534/)
 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/forbidden-11a.JPEG)
 
