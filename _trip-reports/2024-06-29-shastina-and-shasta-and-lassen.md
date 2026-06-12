@@ -1,6 +1,7 @@
 ---
 layout: trip-report
 title: Shastina and Shasta (and Lassen)
+image: /images/shasta-1.jpg
 ---
 
 On Thursday I drove down to Portland and stayed with Drew. Friday I worked a little bit and took a meeting before leaving Portland at 10 and took a meeting on the road. Relatively uneventful drive. 
