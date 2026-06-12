@@ -1,6 +1,7 @@
 ---
 layout: trip-report
 title: Ridgewalking in the Guads
+image: /images/guads-1.jpg
 ---
 
 This summer while we were caving at the Marbles, Riannon mentioned that her airflow study in Carlsbad Caverns would be coming to an end in December and we were invited to help her tear down her stations and see the cave. 
