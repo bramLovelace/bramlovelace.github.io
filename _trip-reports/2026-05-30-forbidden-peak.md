@@ -7,7 +7,8 @@ With summer  approaching I had been keeping an eye out for permits and spotted a
 
 Despite being snow free, cascade river road was closed at the Eldorado gate so we brought bikes to make the 2.5mi and 1kft to the Forbidden trailhead easier. With our heavy packs It took us about 45 minutes to reach the trailhead from the car, including stopping when we saw two black bears to let one walk past us (the other ran away into the woods). 
 
-[bear picture ]
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/forbidden-1.JPEG)
+
 
 We stashed our bikes and started up the trail. While it was clearly a climbers trail on Cascade River Road, it had a surprisingly small amount of straight up. We had been warned about the river crossings but luckily were able to get past them with no issues. 
 
