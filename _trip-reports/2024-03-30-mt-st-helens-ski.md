@@ -1,6 +1,7 @@
 ---
 layout: trip-report
 title: Mt St Helens Ski
+image: /images/MSH-4.jpg
 ---
 
 
