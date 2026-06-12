@@ -69,4 +69,4 @@ It was a great climb. I see why it’s in the 50 Classic Climbs of North America
 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/forbidden-13.jpg)
 
-Forbidden is my 8th Bulger and 20th Smoot. Fun to keep track but not sure I’m really going all out to finish the lists. Excluding repeating Baker and MSH, it’s the first summit out of three Bulger attempts this year. Winter is a hard time to successfully reach high summits but the skiing down is fun regardless. 
+Forbidden is my 8th Bulger and 20th Smoot. Fun to keep track but not sure I’m really going all out to finish the lists. Excluding repeating Baker and MSH, it’s the first summit out of three Bulger attempts this year. Winter is a hard time to successfully reach high summits but the skiing down is fun regardless. (The blue line above is an Eldorado attempt that became a mellow ski day due to avalanche conditions).
