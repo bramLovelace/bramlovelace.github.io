@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Swerve Drives
+image: /images/Swerve2018a.JPG
 ---
 
 In high school I was the CAD lead for FRC Team 900: The Zebracorns. During the offseason prior to the 2018 season, I took on a project to develop a swerve drive that would be fully custom. This was largely driven by the $1100 BOM cost of the 4 COTS (commercial off the shelf) swerve modules we had used the previous year. 
