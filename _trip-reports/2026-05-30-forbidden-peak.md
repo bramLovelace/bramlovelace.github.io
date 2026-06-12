@@ -1,7 +1,7 @@
 ---
 layout: trip-report
 title: Forbidden Peak
-image: /assets/images/forbidden-8.JPEG
+image: {{ site.baseurl }}/images/forbidden-8.JPEG
 ---
 
 With summer  approaching I had been keeping an eye out for permits and spotted a couple weeks out a Friday available for the ever popular Boston Basin. Luc and I planned to leave Seattle early and make it to the trailhead at a reasonable time. 
