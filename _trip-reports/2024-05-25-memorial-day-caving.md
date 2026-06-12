@@ -1,6 +1,7 @@
 ---
 layout: trip-report
 title: Memorial Day Caving
+image: /images/scorpion-1.jpg
 ---
 
 
