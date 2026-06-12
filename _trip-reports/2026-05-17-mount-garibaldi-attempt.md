@@ -45,6 +45,6 @@ The path back along the ridge involved many transitions and sections of skinning
 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/garibaldi-11.JPEG)
 
-We made it back to the car around 4:30 for a 13 hour trip. 
+We made it back to the car around 4:30 for a 13 hour trip and the ability to get back to Seattle at a reasonable time. 
 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/garibaldi-12.jpg)
