@@ -1,15 +1,47 @@
 ---
 layout: trip-report
-title: Mount Garibaldi Attempt
-image: /images/stuart-1.JPEG
+title: Mount Stuart
+image: /images/2026-06-13-stuart/stuart-1.JPG
 ---
 
-With clear and hot weather in the forecast Luc and I were eyeing Mount Stuart. Packing our lightest gear, we had about 30lbs each. We left saturday morning and made good time to the mostly frozen Ingalls lake (it looked about the same as it had when I visited it on 7/4 during my internship). We continued to Stuart Pass and started up the scrambles following the beta we had from Mountain Project, Beckey, and a TR I had downloaded. We continued the whole day including a few sections of snow with one set of footprints for which we used the ice axes but not crampons working our way slowly up past Long John Tower and past the west ridge horn. We found a nice granite bivvy ledge in a relatively protected place below the West Ridge Notch shortly before sunset and set up camp while scouting ahead to the anvil rock. 
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-1.JPG)
 
-We enjoyed the picturesque sunset and woke up at a leisurely time the next morning. We continued on in the morning cold until we got to the point where the rope was necessary. Looking at the snow and wind on the north side we decided to the South side bypass for the first pitch. Luc did the first pitch and I followed, with a few moves being tricky thanks to the heavy (now lighter without the rope) pack and mountaineering boots. I lead the next pitch and decided to go to the south of a large block rather than north, once again due to snow. I spotted a welded #1 cam but not he overhang below it, making the pitch what would have been a 5.8 or 5.9 in climbing shoes with a light pack. At least I know I can hold ~180lbs on a hand jam? I made it up to the fixed cam and sat for a few minutes resting before continuing on to the point at which we were to climb down onto a sandy ledge. Luc followed up and then led the traverse down and climb up to the last ledge. We should have split this since the traverse made there a tradeoff between a ton of slack and a ton of rope drag. I lead the last pitch which was supposed to be the crux, relatively similar to my previous one but markedly easier. 
+With clear and hot weather in the forecast Luc and I were eyeing Mount Stuart. Packing our lightest gear, we had about 30lbs each. We left saturday morning and made good time to the mostly frozen Ingalls lake (it looked about the same as it had when I visited it on 7/4 during my internship). We continued to Stuart Pass and started up the scrambles following the beta we had from Mountain Project, Beckey, and a TR I had downloaded. 
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-2.JPEG)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-3.JPEG)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-5.JPG)
+
+
+We continued the whole day including a few sections of snow with one set of footprints for which we used the ice axes but not crampons working our way slowly up past Long John Tower and past the west ridge horn. We found a nice granite bivvy ledge in a relatively protected place below the West Ridge Notch shortly before sunset and set up camp while scouting ahead to the anvil rock. 
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-7.JPEG)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-8.JPG)
+
+
+We enjoyed the picturesque sunset and woke up at a leisurely time the next morning. We continued on in the morning cold until we got to the point where the rope was necessary. Looking at the snow and wind on the north side we decided to the South side bypass for the first pitch. 
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-9.JPEG)
+
+Luc did the first pitch and I followed, with a few moves being tricky thanks to the heavy (now lighter without the rope) pack and mountaineering boots. 
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-10.JPEG)
+
+I lead the next pitch and decided to go to the south of a large block rather than north, once again due to snow. I spotted a welded #1 cam but not he overhang below it, making the pitch what would have been a 5.8 or 5.9 in climbing shoes with a light pack. At least I know I can hold ~180lbs on a hand jam? I made it up to the fixed cam and sat for a few minutes resting before continuing on to the point at which we were to climb down onto a sandy ledge. Luc followed up and then led the traverse down and climb up to the last ledge. We should have split this since the traverse made there a tradeoff between a ton of slack and a ton of rope drag. I lead the last pitch which was supposed to be the crux, relatively similar to my previous one but markedly easier. 
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-13.JPEG)
+
+
 
 On the top there were thousands of dragonflies and I attempted to make a SOTA contact but was unable to reach anyone with my HT, except one garbled transmission of "...CH... are you up there?" which I took to be responding to my QC since mt. Stuart is CH-002 (2nd tallest mountain in the Chelan region)
 
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-15.JPG)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-14.JPG)
+
+
 After about an hour on the summit and still seeing not a soul we continued down towards the Cascadian Couloir. We had to downclimb one snow field that a large group had been up earlier or the previous day and across a boulder field to another snow field we were able to partially plunge step down, ending up overshooting the couloir slightly and on a ridge to the skiers left. We were able to descend into the couloir which was loose but finally straightforward before we exited to a very well maintained climbers trail down to the stream. We met a team there that had been at Argonaut and chatted while refilling water. 
+
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-12.JPEG)
+![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-11.JPEG)
 
 We made the final 1300' climb to Longs Pass in about 45 minutes and the 2000' from the pass to the car in another 45, grateful to be able to get home at a reasonable time.
