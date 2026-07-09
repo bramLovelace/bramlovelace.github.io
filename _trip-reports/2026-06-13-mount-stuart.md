@@ -4,10 +4,10 @@ title: Mount Stuart
 image: /images/2026-06-13-stuart/stuart-1.JPG
 ---
 
+
+With clear and hot weather in the forecast Luc and I were eyeing Mount Stuart.
+Packing our lightest gear, we had about 30lbs each. We left saturday morning and made good time to the mostly frozen Ingalls lake (it looked about the same as it had when I visited it on 7/4 during my internship). We continued to Stuart Pass and started up the scrambles following the beta we had from Mountain Project, Beckey, and a TR I had downloaded. 
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-1.JPG)
-
-With clear and hot weather in the forecast Luc and I were eyeing Mount Stuart. Packing our lightest gear, we had about 30lbs each. We left saturday morning and made good time to the mostly frozen Ingalls lake (it looked about the same as it had when I visited it on 7/4 during my internship). We continued to Stuart Pass and started up the scrambles following the beta we had from Mountain Project, Beckey, and a TR I had downloaded. 
-
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-2.JPEG)
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-3.JPEG)
 ![image](https://raw.githubusercontent.com/bramlovelace/bramlovelace.github.io/master/images/2026-06-13-stuart/stuart-5.JPG)
